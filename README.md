@@ -1,6 +1,6 @@
-# Smart Farm ROI Segmentation (ROS2)
+# 실시간 CCTV 분석 기반 스마트 축사 모니터링 시스템
 
-Dual CCTV 입력을 YOLO Segmentation으로 분석하고, ROI(우방) 단위 오염도 지표와 사람 감지 여부를 JSON 리포트로 ROS2 토픽에 발행하는 노드입니다.
+Dual CCTV 입력을 YOLO Detection으로 분석하고, ROI(우방) 단위 오염도 지표와 사람 감지 여부를 JSON 리포트로 ROS2 토픽에 발행하는 노드입니다.
 
 ## Demo / Screenshots
 ![demo](assets/smart_farm_demo.gif)
